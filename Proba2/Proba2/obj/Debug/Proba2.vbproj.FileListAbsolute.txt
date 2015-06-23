@@ -1,0 +1,12 @@
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Debug\Proba2.exe.config
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Debug\Proba2.exe
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Debug\Proba2.pdb
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\bin\Debug\Proba2.xml
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.Form1.resources
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.Resources.resources
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.vbproj.GenerateResource.Cache
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.exe
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.xml
+c:\users\julen\documents\visual studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.pdb
+C:\Users\Julen\Documents\Visual Studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.Form2.resources
+C:\Users\Julen\Documents\Visual Studio 2013\Projects\Proba2\Proba2\obj\Debug\Proba2.Form3.resources
